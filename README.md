@@ -2,9 +2,9 @@
 Hi humans:
   I **love** *here*.
 List 1:
-1. item 1.
-2. item 2.
-3. item3.
+1. item1
+2. item2
+3. item3
 
 List2:
 * item1.
