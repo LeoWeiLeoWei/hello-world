@@ -25,7 +25,9 @@ List3:
   - item3.2.
 
 > Quotes line 1
+
 > Quotes line 2
+
 ```javascript
 if (isAwesome) {
   return true;
